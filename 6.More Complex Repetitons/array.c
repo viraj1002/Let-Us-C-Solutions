@@ -2,6 +2,7 @@
 int main()
 {
 int rows, coef = 1, space, i, j;
+int rows;
 
 printf("Enter number of rows: ");
 scanf("%d",&rows);
