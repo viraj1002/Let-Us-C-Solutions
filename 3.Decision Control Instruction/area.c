@@ -3,6 +3,7 @@
 void main()
 {
 	float l,b,a,p;
+	int area;
 	printf("Enter length and bradth of a rectangle: ");
 	scanf("%f%f",&l,&b);
 	a=l*b;
