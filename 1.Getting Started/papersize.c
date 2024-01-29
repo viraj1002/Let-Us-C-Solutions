@@ -8,7 +8,7 @@ Write a program to calculate and print paper sizes A0,A1,A2,...A8.
 #include<stdio.h>
 void main()
 {
-	int i,a=1189,b=841,temp;
+	int i,a=1189,b=841,temp,cel;
 	for(i=0;i<9;i++){
 		printf("A%d :- %d mm * %d mm\n",i,a,b);
 		temp=a;
