@@ -7,7 +7,7 @@ and circumference of circle.
 #include<stdio.h>
 void main()
 {
-	float l,b,pr,ar,r,ac,cc,as;
+	float l,b,pr,ar,r,ac,cc;
 	printf("Enter length and breadth of rectangle:-");
 	scanf("%f%f",&l,&b);
 	printf("Enter radius of circle:-");
